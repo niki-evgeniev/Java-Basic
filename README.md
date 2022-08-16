@@ -1,2 +1,4 @@
-# SoftUni
-Hello this is my lecture from SoftUni basic course
+# Software University - SoftUni
+Hello this is moudul i learn in Softuni 
+
+Basic
