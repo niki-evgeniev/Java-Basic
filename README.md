@@ -1,4 +1,4 @@
 # Software University - SoftUni
-Hello this is moudul i learn in Softuni 
+Hello this is all moudul i learn in Softuni 
 
 Basic
