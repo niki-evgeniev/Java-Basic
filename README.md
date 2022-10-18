@@ -6,27 +6,27 @@ Hello this is all homeworks and exercise from modules Java-Basic in Softuni
 
       1. First Steps in Coding 
       
-             2. First Steps in Coding Exercise
+             1.2 First Steps in Coding Exercise
              
-      3. Conditional Statements
+      2. Conditional Statements
       
-             4. Conditional Statements Exercise
+             2.2 Conditional Statements Exercise
              
-      5. Conditional Statements Advanced
+      3. Conditional Statements Advanced
       
-             6. Conditional Statements Advanced Exercise
+             3.2 Conditional Statements Advanced Exercise
              
-      7. For Loop
+      4. For Loop
       
-             8. For Loop Exercise 
+             4.2 For Loop Exercise 
              
-      9. While Loop 
+      5. While Loop 
       
-            10. While Loop Exercise
+            5.2 While Loop Exercise
             
-      11. Nested Loops 
+      6. Nested Loops 
       
-            12. Nested Loops Exercise
+            6.2 Nested Loops Exercise
             
-      13. Exam Preparation tasks Sept 2021
-      14. Exercise tasks for exam.
+      7. Exam Preparation tasks Sept 2021
+      8. Exercise tasks for exam.
