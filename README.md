@@ -1,5 +1,5 @@
 # Software University - SoftUni
-Hello this is all homeworks and exercise from modules Java-Basic in Softuni
+Hello this is my homeworks and exercise from modules Java-Basic in Softuni
 
 
       Java Basic - February
