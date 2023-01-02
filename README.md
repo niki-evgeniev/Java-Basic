@@ -1,4 +1,4 @@
-# Software University - SoftUni - JAVA
+# Software University - SoftUni - JAVA-Basic
 Hello this is my homeworks and exercise from modules Java-Basic in Softuni
 
 
